@@ -10,7 +10,7 @@ torch
 torchvision
 
 pytesseract==0.3.10
-pillow# Required by pytesseract
+pillow==10.0.0
 gunicorn
 
 
