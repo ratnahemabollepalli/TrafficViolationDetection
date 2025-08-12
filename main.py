@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 from collections import defaultdict
-import pytesseract
+import pytesseract  # Correct package name
 import re
 import csv
 from datetime import datetime, timedelta
